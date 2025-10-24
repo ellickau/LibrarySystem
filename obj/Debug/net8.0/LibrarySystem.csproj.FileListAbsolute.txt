@@ -1,0 +1,15 @@
+/workspaces/LibrarySystem/bin/Debug/net8.0/LibrarySystem
+/workspaces/LibrarySystem/bin/Debug/net8.0/LibrarySystem.deps.json
+/workspaces/LibrarySystem/bin/Debug/net8.0/LibrarySystem.runtimeconfig.json
+/workspaces/LibrarySystem/bin/Debug/net8.0/LibrarySystem.dll
+/workspaces/LibrarySystem/bin/Debug/net8.0/LibrarySystem.pdb
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.AssemblyInfoInputs.cache
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.AssemblyInfo.cs
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.sourcelink.json
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.dll
+/workspaces/LibrarySystem/obj/Debug/net8.0/refint/LibrarySystem.dll
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.pdb
+/workspaces/LibrarySystem/obj/Debug/net8.0/LibrarySystem.genruntimeconfig.cache
+/workspaces/LibrarySystem/obj/Debug/net8.0/ref/LibrarySystem.dll
