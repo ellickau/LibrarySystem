@@ -12,8 +12,9 @@
    <li>No password is required.</li>
    <li>Under VS Code, execute dotnet run under LibrarySystem folder.</li> 
    <li>Only <em>"admin"</em> username can access users' and books' details.</li>
-   <li>Create new Users when you start the program.</li>
-   <li>No username will be captured in this program.</li>
+   <li>Create new Users when you start the app.</li>
+   <li>No username will be captured in this app.</li>
+   <li>Type <em>dotnet run</em> to execute application</li>
 </ol>
 
 <h2> ULM Diagram </h2>
