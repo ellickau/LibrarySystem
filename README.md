@@ -1,7 +1,7 @@
 <h1> Simple Library System </h1>
 <p>Update on 23 Oct 2025</p>
 
-<h2> Flow Digram </h2>
+<h2> Flow Diagram </h2>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/9e814277-397a-45ee-9ac4-e0a83faf3726" />
 
 <p>Version: 0</p>
