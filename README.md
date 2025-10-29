@@ -17,7 +17,7 @@
    <li>Type <em>dotnet run</em> to execute application.</li>
 </ol>
 
-<h2> ULM Diagram </h2>
+<h2> UML Diagram </h2>
  
 
 <img width="683" height="976" alt="image" src="https://github.com/user-attachments/assets/0508aff4-98de-4e4d-8fef-f4372bf690f5" />
